@@ -13,12 +13,15 @@ It is tempting to map interindividual variability in human perception to variabi
 ## Cortical idiosyncrasies and illusion magnitude
 ### Visual surface area
 correlate_illMagn_surfaceArea.m
+
 illMagn_surfaceArea_0_8.jasp
 
 ### PRF size and illusion magnitude
 correlate_illMagn_pRFsize.m
+
 illMagn_pRF_size.jasp
 
 ### Slope and intercept of pRF size as a function of eccentricity 
 correlate_illMagn_pRFsizeSlopeIntercept.m
+
 illMagn_pRFsizeSlopeIntercept.jasp
